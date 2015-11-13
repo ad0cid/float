@@ -1,0 +1,21 @@
+.caja{
+	width: 25%;
+	height:100px ;
+	float: right;
+}
+.amarillo{
+	background-color: yellow;
+}
+.azul{
+	background-color: blue;
+}
+.rojo{
+	background-color: red;
+}
+.contenedor{
+	width:500px;
+	border: solid black 5px 
+}
+.clearfix: {
+	overflow: auto; 
+}
